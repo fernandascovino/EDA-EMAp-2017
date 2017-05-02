@@ -1,4 +1,4 @@
-class ABNode: # numa árvore binária, cada nó tem de 0 a 2 filhos
+class BNode: # numa árvore binária, cada nó tem de 0 a 2 filhos
     def __init__(self, raiz=None, le=None, ld=None):
         self.raiz = raiz # o nó tem uma raiz (que contém seu valor)
         self.le = le # ponteiro esquerdo (le), aponta para o nó filho à esquerda
