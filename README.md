@@ -6,7 +6,7 @@
 ## Itens:
 
 * Árvores
-    - Binária
-    - Binária de Busca
-    - AVL
+    - [Binária](https://github.com/fernandascovino/EDA-EMAp-2017/blob/master/binary_tree.py): estrutura, inserção, percursos
+    - [Binária de Busca](https://github.com/fernandascovino/EDA-EMAp-2017/blob/master/binary_search_tree.py): estrutura, busca, inserção e remoção
+    - [AVL](https://github.com/fernandascovino/EDA-EMAp-2017/blob/master/avl_tree.py): estrutura, inserção
     
